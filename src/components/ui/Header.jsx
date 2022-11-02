@@ -19,5 +19,5 @@ const StContainer = styled.div`
   align-items: center;
   padding: 0 20px;
   margin-bottom: 24px;
-  margin-top: 24px;
+  margin-top: 10px;
 `;
